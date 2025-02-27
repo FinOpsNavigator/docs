@@ -1,0 +1,10 @@
+---
+layout: default
+title: About Dashboards
+nav_order: 10
+description: About FinOps Navigator Dashboards
+permalink: /about-dashboards
+author: rolandkrummenacher
+---
+
+<span class="fs-9 d-block mb-4">About the dashboards</span>
