@@ -1,8 +1,24 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FinOps Navigator
+description: FinOps Navigator Documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://finopsnavigator.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Groups of pages in the left nav
+collections:
+  dashboards:
+    permalink: /:collection/:path/
+    output: true
+
+just_the_docs:
+  collections:
+    dashboards:
+      name: Dashboards
+
+# Enable relative links for collections -- https://github.com/benbalter/jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
