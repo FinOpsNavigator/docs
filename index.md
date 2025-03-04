@@ -5,8 +5,6 @@ layout: home
 
 # FinOps Navigator
 
-![FinOps Navigator](https://via.placeholder.com/1200x400?text=FinOps+Navigator)
-
 **FinOps Navigator** is your central hub for navigating cloud financial management with actionable insights and intuitive dashboards. Designed for FinOps practitioners, architects, and finance teams, FinOps Navigator helps organizations optimize their cloud spend and improve financial accountability.
 
 ## 🚀 Key Features
