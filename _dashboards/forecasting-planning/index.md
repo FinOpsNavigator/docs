@@ -1,6 +1,5 @@
 ---
 layout: default
 title: Forecasting and Planning
-parent: Dashboards
-nav_order: 1200
+nav_order: 2
 ---
