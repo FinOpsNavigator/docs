@@ -22,3 +22,5 @@ aux_links:
 relative_links:
   enabled: true
 #  collections: true
+
+nav_expand: true
