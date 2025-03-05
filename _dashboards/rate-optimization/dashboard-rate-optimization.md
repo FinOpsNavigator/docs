@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard Rate Optimization  
-nav_order: 10  
+nav_order: 4  
 description: Dashboard Rate Optimization  
 permalink: /dashboard-rate-optimization  
 author: rolandkrummenacher  

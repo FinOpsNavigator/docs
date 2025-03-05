@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard VM Rightsizing  
-nav_order: 10  
+nav_order: 2
+parent: Workload Optimization
 description: Dashboard VM Rightsizing  
 permalink: /dashboard-vm-rightsizing  
 author: rolandkrummenacher  

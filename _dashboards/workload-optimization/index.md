@@ -1,6 +1,5 @@
 ---
 layout: default
 title: Workload Optimization
-parent: Dashboards
-nav_order: 1500
+nav_order: 5
 ---

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Disk Rightsizing  
-nav_order: 10  
+nav_order: 3
+parent: Workload Optimization
 description: Dashboard Disk Rightsizing  
 permalink: /dashboard-disk-rightsizing  
 author: rolandkrummenacher  

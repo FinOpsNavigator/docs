@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Health Score  
-nav_order: 10  
+nav_order: 1
+parent: Workload Optimization
 description: Dashboard Health Score  
 permalink: /dashboard-health-score  
 author: rolandkrummenacher  

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard Value Realization  
-nav_order: 10  
+nav_order: 6  
 description: Dashboard Value Realization  
 permalink: /dashboard-value-realization  
 author: rolandkrummenacher  
