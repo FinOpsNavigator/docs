@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard Forecasting by Application  
-parent: forecasting-planning
+parent: Forecasting and Planning
 nav_order: 2
 description: Dashboard Forecasting by Application  
 permalink: /dashboard-forecasting-by-application  
