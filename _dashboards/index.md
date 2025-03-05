@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Dashboards
-nav_order: 10
+nav_order: 1
 description: About FinOps Navigator Dashboards
 permalink: /about-dashboards
 author: rolandkrummenacher
