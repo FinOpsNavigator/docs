@@ -21,4 +21,4 @@ just_the_docs:
 # Enable relative links for collections -- https://github.com/benbalter/jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
+  collections: false
