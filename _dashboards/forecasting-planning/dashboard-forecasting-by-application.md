@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Forecasting by Application  
-nav_order: 10  
+parent: forecasting-planning
+nav_order: 2
 description: Dashboard Forecasting by Application  
 permalink: /dashboard-forecasting-by-application  
 author: rolandkrummenacher  

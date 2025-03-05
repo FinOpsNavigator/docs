@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Dashboard Azure Cost Tracking  
-nav_order: 10  
+title: Dashboard Azure Cost Tracking 
+parent: forecasting-planning 
+nav_order: 1
 description: Dashboard Azure Cost Tracking  
 permalink: /dashboard-azure-cost-tracking  
 author: rolandkrummenacher  

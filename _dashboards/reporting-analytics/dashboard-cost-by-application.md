@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Cost by Application  
-nav_order: 10  
+parent: Reporting and Analytics
+nav_order: 1
 description: Dashboard Cost by Application  
 permalink: /dashboard-cost-by-application  
 author: rolandkrummenacher  

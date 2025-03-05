@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Analysis  
-nav_order: 10  
+parent: Reporting and Analytics
+nav_order: 4
 description: Dashboard Analysis  
 permalink: /dashboard-analysis  
 author: rolandkrummenacher  

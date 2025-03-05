@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Reporting and Showback  
-nav_order: 10  
+parent: Reporting and Analytics
+nav_order: 3
 description: Dashboard Reporting and Showback  
 permalink: /dashboard-reporting-and-showback  
 author: rolandkrummenacher  

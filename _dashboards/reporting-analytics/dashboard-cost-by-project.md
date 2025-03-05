@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Cost by Project  
-nav_order: 10  
+parent: Reporting and Analytics
+nav_order: 2
 description: Dashboard Cost by Project  
 permalink: /dashboard-cost-by-project  
 author: rolandkrummenacher  
