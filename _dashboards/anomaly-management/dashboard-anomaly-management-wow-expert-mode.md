@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Anomaly Management WoW (Expert Mode)  
-nav_order: 10  
+nav_order: 2
+parent: Anomaly Management 
 description: Dashboard Anomaly Management WoW (Expert Mode)  
 permalink: /dashboard-anomaly-management-wow-expert-mode  
 author: rolandkrummenacher  

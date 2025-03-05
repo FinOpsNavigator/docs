@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Dashboard Anomaly Management MoM  
-nav_order: 10  
+nav_order: 1
+parent: Anomaly Management
 description: Dashboard Anomaly Management MoM  
 permalink: /dashboard-anomaly-management-mom  
 author: rolandkrummenacher  
